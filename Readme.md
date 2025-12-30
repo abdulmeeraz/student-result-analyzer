@@ -24,13 +24,21 @@ A Python-based Student Result Analyzer that calculates totals, averages, grades,
 
 📂 Project Structure
 day-06-student-result-analyzer/
+
  ├── main.py
+
  ├── results.json
+
  └── README.md
 
  🧮 Grading Logic
+
 Average	Grade
+
 ≥ 85	A
+
 ≥ 70	B
+
 ≥ 50	C
+
 < 50	Fail
