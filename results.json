@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Abdul akhil",
+        "maths": 55,
+        "science": 76,
+        "english": 80,
+        "total": 211,
+        "average": 70.33,
+        "grade": "B"
+    }
+]
