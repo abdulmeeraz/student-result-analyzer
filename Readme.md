@@ -35,10 +35,10 @@ day-06-student-result-analyzer/
 
 Average	Grade
 
-≥ 85	A
+≥ 85    	A
 
-≥ 70	B
+≥ 70    	B
 
-≥ 50	C
+≥ 50    	C
 
-< 50	Fail
+< 50	    Fail
