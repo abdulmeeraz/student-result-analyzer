@@ -20,6 +20,7 @@ A Python-based Student Result Analyzer that calculates totals, averages, grades,
 ## How to Run
 1. Install Python 3
 2. Run:
+python main.py
 
 
 📂 Project Structure
