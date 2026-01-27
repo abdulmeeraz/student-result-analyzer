@@ -8,4 +8,13 @@
         "average": 70.33,
         "grade": "B"
     }
+    {
+        "name": "Mohammad Rafi",
+        "maths": 70,
+        "science": 66,
+        "english": 75,
+        "total": 211,
+        "average": 70.33,
+        "grade": "B"
+    }
 ]
